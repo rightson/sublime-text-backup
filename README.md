@@ -2,7 +2,7 @@
 A lightweight tool for Mac OSX users to backup sublime text 3 settings with minimal efforts.
 
 This tool can help you copy st3 settings to a specific path (like Dropbox or Google Drive).
-If you like simple command line tool, this toool will be your good friend!
+If you like simple command line tool, this will be your good friend!
 
 ### Reventing the wheel?
 Since Sublimall is shutdown in Nov, 2014, I created this simple tool for saving my life.
