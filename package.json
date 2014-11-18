@@ -2,7 +2,7 @@
   "name": "sublime-text-backup",
   "version": "0.1.0",
   "description": "A naive tool for Mac OSX to backup sublime text 3 settings",
-  "main": "cli.js",
+  "main": "st3-tool.js",
   "scripts": {
     "test": "exit 0"
   },
