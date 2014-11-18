@@ -27,7 +27,7 @@ ACTION:
 
 PATH:
 
-	destination location
+	backup destination
 
 ### Principles
 This tool will backup sublime text 3 settings to a specific folder (ex: sub-dirs in Dropbox or Google Drive).
